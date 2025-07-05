@@ -31,7 +31,7 @@ This project uses YOLO (You Only Look Once) object detection to segment differen
 1. **Clone the repository**
    ```bash
    git clone <your-repository-url>
-   cd Car-Wrap2
+   cd Car-Parts-Seg-22-class
    ```
 
 2. **Create and activate virtual environment**
