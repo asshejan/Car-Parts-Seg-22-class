@@ -1,5 +1,11 @@
 # Car Wrap Project 🚗
 
+## 🖼️ Showcase
+
+Below is a screenshot of the Car Wrap app in action:
+
+![App Screenshot](screenshots/screenshot.png)
+
 A machine learning-powered web application for car parts segmentation and analysis, designed to assist in car wrap design and planning.
 
 ## 📋 Overview
