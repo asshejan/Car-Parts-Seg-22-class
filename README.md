@@ -1,4 +1,4 @@
-# Car Wrap Project 🚗
+# Car Parts Segmentation Using YOLOv11 🚗
 
 ## 🖼️ Showcase
 
